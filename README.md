@@ -1,4 +1,4 @@
-**🌊 GAIDE01: AI-Driven Compliance and Regulatory Reporting Platform**
+**🌊 GAIDE01: AI-Driven Compliance and Regulatory Reporting Platform !WORK IN PROGRESS!**
 
 #generativeai #datamodelling #python #amazonbedrock #compliance #regulatoryreporting
 
